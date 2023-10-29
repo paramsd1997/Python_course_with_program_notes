@@ -2,6 +2,10 @@
 #  Arithmetic operators are used to perform mathematical operations on numerical values.
 # + - * / %
 
+x = 15
+y = 3
+add = x + y  
+print(add)
 
 
 x = 15

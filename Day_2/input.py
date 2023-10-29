@@ -1,4 +1,4 @@
-# getting input from user 
+# getting input from user
 """
 x  = int(input("Enter your first number : ") )
 y  = int(input("Enter your sencond number : ") )
@@ -9,6 +9,12 @@ print(num3)
 
 
 
+length = str (input("Enter the length of the rectangle: ")) # 50
+width = int (input("Enter the width of the rectangle: ")) # 3
+
+# area = 50 * 3
+area = length * width
+print( area)
 
 
 
@@ -26,5 +32,3 @@ print(num3)
 
 
 
-name = float(input("Enter your name: ") )
-print(name) 
